@@ -123,7 +123,6 @@ Commands such as `docker ps`, `docker ps -a`, and `docker logs` were used for tr
 
 ## What I Learned
 
-## What I Learned
 
 This project helped me understand how the different tools and services work together to deploy an application.
 
