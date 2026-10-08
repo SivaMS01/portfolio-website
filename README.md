@@ -82,6 +82,7 @@ Through this project, I practiced:
 The application is served using Nginx inside a Docker container. A Dockerfile was created to build the Docker image and copy the website files into the Nginx web root directory.
 
 FROM nginx:latest
+
 COPY . /usr/share/nginx/html
 
 ### Build Docker Image
